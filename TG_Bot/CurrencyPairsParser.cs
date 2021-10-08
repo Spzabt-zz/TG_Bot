@@ -18,7 +18,7 @@ namespace TG_Bot
             _webClient = new WebClient();
         }
 
-        public string GetUSD_UAHPair(string message)
+        public string GetValuePairs(string message)
         {
             string response = _webClient.DownloadString(Link);
             var data = JsonConvert.DeserializeObject<List<JsonData>>(response);

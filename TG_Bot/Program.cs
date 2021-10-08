@@ -49,7 +49,6 @@ namespace TG_Bot
             switch (msg.Text)
             {
                 case "Send sticker pls!":
-                    /*var sticker =*/
                     _random = new Random();
                     var stickers = new[]
                     {
@@ -66,12 +65,6 @@ namespace TG_Bot
                         );
 
                     break;
-                // case "Send audio":
-                //     await _botClient.SendAudioAsync(
-                //         chatId: msg.Chat.Id,
-                //         audio: "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG?si=d1947cfa36134b5e"
-                //     );
-                //     break;
                 case "Send pic":
                     await _botClient.SendPhotoAsync(
                         msg.Chat.Id,
@@ -80,18 +73,6 @@ namespace TG_Bot
                         //replyToMessageId: msg.MessageId,
                         replyMarkup: GetButtons());
                     break;
-                // case "Send vid":
-                //     await using (var stream =
-                //         System.IO.File.OpenRead(@"D:\Videos\fnf movies\Skippa 2021-08-28 10-32-22-999.mp4"))
-                //     {
-                //         await _botClient.SendVideoAsync(
-                //             chatId: msg.Chat.Id,
-                //             video: stream,
-                //             replyToMessageId: msg.MessageId,
-                //             replyMarkup: GetButtons());
-                //     }
-                //
-                //     break;
                 case "Currency pairs":
                     var currencies = new[]
                     {
@@ -103,7 +84,7 @@ namespace TG_Bot
                     foreach (var currency in currencies)
                         await _botClient.SendTextMessageAsync(
                             msg.Chat.Id,
-                            text: _currencyPairs.GetUSD_UAHPair(currency),
+                            text: _currencyPairs.GetValuePairs(currency),
                             replyMarkup: GetButtons());
                     break;
                 default:
@@ -113,12 +94,6 @@ namespace TG_Bot
                         replyMarkup: GetButtons());
                     break;
             }
-            //await _botClient.SendTextMessageAsync(msg.Chat.Id, msg.Text, replyMarkup:GetButtons());
-            // var sticker = await _botClient.SendStickerAsync(
-            //     chatId: msg.Chat.Id,
-            //     sticker:
-            //     "https://cdn.tlgrm.app/stickers/c62/4a8/c624a88d-1fe3-403a-b41a-3cdb9bf05b8a/thumb128.webp",
-            //     replyToMessageId: msg.MessageId);
         }
 
         private static IReplyMarkup GetButtons()

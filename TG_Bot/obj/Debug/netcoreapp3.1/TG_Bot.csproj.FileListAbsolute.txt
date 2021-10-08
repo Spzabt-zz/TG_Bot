@@ -21,3 +21,27 @@ D:\Programming\Telegram bot\TG_Bot\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.Web
 D:\Programming\Telegram bot\TG_Bot\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
 D:\Programming\Telegram bot\TG_Bot\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
 D:\Programming\Telegram bot\TG_Bot\TG_Bot\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\TG_Bot.exe
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\TG_Bot.deps.json
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\TG_Bot.runtimeconfig.json
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\TG_Bot.runtimeconfig.dev.json
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\TG_Bot.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\TG_Bot.pdb
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\Programming\TG_BOT\TG_Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.Extensions.Polling.dll
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.csproj.AssemblyReference.cache
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.AssemblyInfoInputs.cache
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.AssemblyInfo.cs
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.csproj.CoreCompileInputs.cache
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.csproj.CopyComplete
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.dll
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.pdb
+E:\Programming\TG_BOT\TG_Bot\obj\Debug\netcoreapp3.1\TG_Bot.genruntimeconfig.cache
