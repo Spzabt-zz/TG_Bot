@@ -14,7 +14,7 @@ namespace TG_Bot
 {
     class Program
     {
-        private static string Token { get; set; } = "1876809111:AAGXSbIRLcwMrTEdFwH2QKM-XPZGViZRKP0";
+        private static string Token { get; set; } = "str";
         private static ITelegramBotClient _botClient;
         //private static TelegramBotClient _botClient;
         private static Random _random;

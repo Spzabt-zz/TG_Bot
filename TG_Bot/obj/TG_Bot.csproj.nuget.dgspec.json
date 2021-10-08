@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Telegram bot\\TG_Bot\\TG_Bot\\TG_Bot.csproj": {}
+    "E:\\Programming\\TG_BOT\\TG_Bot\\TG_Bot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Telegram bot\\TG_Bot\\TG_Bot\\TG_Bot.csproj": {
+    "E:\\Programming\\TG_BOT\\TG_Bot\\TG_Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Telegram bot\\TG_Bot\\TG_Bot\\TG_Bot.csproj",
+        "projectUniqueName": "E:\\Programming\\TG_BOT\\TG_Bot\\TG_Bot.csproj",
         "projectName": "TG_Bot",
-        "projectPath": "D:\\Programming\\Telegram bot\\TG_Bot\\TG_Bot\\TG_Bot.csproj",
-        "packagesPath": "C:\\Users\\spzab\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Telegram bot\\TG_Bot\\TG_Bot\\obj\\",
+        "projectPath": "E:\\Programming\\TG_BOT\\TG_Bot\\TG_Bot.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\TG_BOT\\TG_Bot\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\spzab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
